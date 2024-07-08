@@ -1,6 +1,6 @@
 # Document Genie: Unlock Insights from Your PDFs with AI
 
-This repository provides a user-friendly Streamlit application called "Document Genie" - a powerful tool for extracting knowledge from your PDF documents using Google's Generative AI technology. You can run this repository here: [Document Genie]()
+This repository provides a user-friendly Streamlit application called "Document Genie" - a powerful tool for extracting knowledge from your PDF documents using Google's Generative AI technology. You can run this repository here: [Document Genie](https://document-genie-rag.streamlit.app)
 
 ## 1. Key Features
 
